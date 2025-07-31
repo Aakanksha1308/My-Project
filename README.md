@@ -46,10 +46,16 @@ Add a database for course content
 Interactive quizzes and progress tracking
 
 User dashboard
+
+
 Author:
+
 Name:Aakanksha Kalba Mehatre
+
 Email:aakankshamehatre732@gmail.com
+
 Github:https://github.com/Aakanksha1308
+
 
 📝 License
 
